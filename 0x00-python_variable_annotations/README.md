@@ -18,35 +18,25 @@ This project focuses on Python, emphasizing variable annotations and type checki
 
 ## Tasks
 
-1. **Basic Annotations - Add**: Type-annotated function to add two floats.  
-   File: 0-add.py
+1. **Basic Annotations - Add**: Type-annotated function to add two floats. `0-add.py`
 
-2. **Basic Annotations - Concat**: Type-annotated function to concatenate two strings.  
-   File: 1-concat.py
+2. **Basic Annotations - Concat**: Type-annotated function to concatenate two strings. `1-concat.py`
 
-3. **Basic Annotations - Floor**: Type-annotated function to return the floor of a float.  
-   File: 2-floor.py
+3. **Basic Annotations - Floor**: Type-annotated function to return the floor of a float. `2-floor.py`
 
-4. **Basic Annotations - To String**: Type-annotated function to convert a float to its string representation.  
-   File: 3-to_str.py
+4. **Basic Annotations - To String**: Type-annotated function to convert a float to its string representation. `3-to_str.py`
 
-5. **Define Variables**: Define and annotate specific variables with given values.  
-   File: 4-define_variables.py
+5. **Define Variables**: Define and annotate specific variables with given values. `4-define_variables.py`
 
-6. **Complex Types - List of Floats**: Type-annotated function to sum a list of floats.  
-   File: 5-sum_list.py
+6. **Complex Types - List of Floats**: Type-annotated function to sum a list of floats. `5-sum_list.py`
 
-7. **Complex Types - Mixed List**: Type-annotated function to sum a mixed list of integers and floats.  
-   File: 6-sum_mixed_list.py
+7. **Complex Types - Mixed List**: Type-annotated function to sum a mixed list of integers and floats. `6-sum_mixed_list.py`
 
-8. **Complex Types - String and Int/Float to Tuple**: Type-annotated function to return a tuple with a string and the square of an int/float.  
-   File: 7-to_kv.py
+8. **Complex Types - String and Int/Float to Tuple**: Type-annotated function to return a tuple with a string and the square of an int/float. `7-to_kv.py`
 
-9. **Complex Types - Functions**: Type-annotated function to create a multiplier function.  
-   File: 8-make_multiplier.py
+9. **Complex Types - Functions**: Type-annotated function to create a multiplier function. `8-make_multiplier.py`
 
-10. **Duck Type an Iterable Object**: Annotated function parameters and return values for a given function.  
-    File: 9-element_length.py
+10. **Duck Type an Iterable Object**: Annotated function parameters and return values for a given function. `9-element_length.py`
 
 ## Author
 
