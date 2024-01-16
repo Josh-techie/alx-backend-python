@@ -14,14 +14,7 @@ import random
 import asyncio
 
 
-async def wait_random(max_delay: int = 10):
-    delay = random.uniform(0, max_delay)
-    """
-    The random.uniform() method in Python returns a random floating-point
-    number between two specified numbers (both included).
-    """
-    await asyncio.sleep(delay)
-    return delay
-
-if __name__ == "__main__":
-    asyncio.run(wait_random())
+async def wait_random(max_delay: int = 10)-> float:
+        wait_time = random.random() * max_delay
+        await asyncio.sleep(wait_time)
+        return wait_time
