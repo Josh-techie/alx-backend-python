@@ -28,31 +28,31 @@ To successfully navigate through this project, make sure to read or watch the fo
 
 Implement an asynchronous coroutine, `wait_random`, that takes an integer argument `max_delay` (default value: 10). This coroutine should wait for a random delay between 0 and `max_delay` (inclusive and as a float) seconds and return the delay.
 
-Please find the implementation of this task in the file [0-basic_async_syntax.py](<Link to file in repository>).
+Please find the implementation of this task in the file [0-basic_async_syntax.py](https://github.com/Josh-techie/alx-backend-python/blob/master/0x01-python_async_function/0-basic_async_syntax.py).
 
 ### 1. Let's execute multiple coroutines at the same time with async
 
 Import `wait_random` from the previous file and create an async routine, `wait_n`, that takes two integer arguments `n` and `max_delay`. Spawn `wait_random` `n` times with the specified `max_delay` and return the list of delays in ascending order.
 
-For the implementation of this task, please refer to the file [1-concurrent_coroutines.py](<Link to file in repository>).
+For the implementation of this task, please refer to the file [1-concurrent_coroutines.py](https://github.com/Josh-techie/alx-backend-python/blob/master/0x01-python_async_function/1-concurrent_coroutines.py).
 
 ### 2. Measure the runtime
 
 Import the `wait_n` function into `2-measure_runtime.py` and create a `measure_time` function that measures the total execution time for `wait_n(n, max_delay)` and returns `total_time / n`. Use the `time` module to measure the approximate elapsed time.
 
-You can find the implementation of this task in the file [2-measure_runtime.py](<Link to file in repository>).
+You can find the implementation of this task in the file [2-measure_runtime.py](https://github.com/Josh-techie/alx-backend-python/blob/master/0x01-python_async_function/2-measure_runtime.py).
 
 ### 3. Tasks
 
 Import `wait_random` from `0-basic_async_syntax` and write a function, `task_wait_random`, that takes an integer `max_delay` and returns an asyncio.Task.
 
-The implementation for this task can be found in the file [3-tasks.py](<Link to file in repository>).
+The implementation for this task can be found in the file [3-tasks.py](https://github.com/Josh-techie/alx-backend-python/blob/master/0x01-python_async_function/3-tasks.py).
 
 ### 4. Tasks
 
 Take the code from `wait_n` and create a new function, `task_wait_n`. The code is nearly identical to `wait_n`, except `task_wait_random` is being called.
 
-You can reference the implementation for this task in the file [4-tasks.py](<Link to file in repository>).
+You can reference the implementation for this task in the file [4-tasks.py](https://github.com/Josh-techie/alx-backend-python/blob/master/0x01-python_async_function/4-tasks.py).
 
 ## Author
 
