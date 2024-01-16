@@ -1,4 +1,4 @@
-![ALX Logo](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/ee85b9f67c384e29525b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%252F20240116%252Fus-east-1%252Fs3%252Faws4_request&X-Amz-Date=20240116T141406Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=0eabbd25da7801c3ed65349e242265ecdb19cbdec3a5ef9303b819cfe2c84abe)
+![Tweet](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/ee85b9f67c384e29525b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240116%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240116T141406Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=0eabbd25da7801c3ed65349e242265ecdb19cbdec3a5ef9303b819cfe2c84abe)
 
 # Project: 0x02. Python - Async Comprehension
 
