@@ -28,25 +28,25 @@ To successfully navigate through this project, make sure to read or watch the fo
 
 Write a type-annotated function `add` that takes a float `a` and a float `b` as arguments and returns their sum as a float.
 
-The implementation for this task can be found in the file [0-add.py](https://github.com/your-username/your-repo/blob/master/0x00-python_variable_annotations/0-add.py).
+The implementation for this task can be found in the file [0-add.py](https://github.com/Josh-techie/alx-backend-python/blob/master/0x00-python_variable_annotations/0-add.py).
 
 ### 1. Basic annotations - concat
 
 Write a type-annotated function `concat` that takes a string `str1` and a string `str2` as arguments and returns a concatenated string.
 
-For the implementation of this task, please refer to the file [1-concat.py](https://github.com/your-username/your-repo/blob/master/0x00-python_variable_annotations/1-concat.py).
+For the implementation of this task, please refer to the file [1-concat.py](https://github.com/Josh-techie/alx-backend-python/blob/master/0x00-python_variable_annotations/1-concat.py).
 
 ### 2. Basic annotations - floor
 
 Write a type-annotated function `floor` which takes a float `n` as an argument and returns the floor of the float.
 
-You can find the implementation of this task in the file [2-floor.py](https://github.com/your-username/your-repo/blob/master/0x00-python_variable_annotations/2-floor.py).
+You can find the implementation of this task in the file [2-floor.py](https://github.com/Josh-techie/alx-backend-python/blob/master/0x00-python_variable_annotations/2-floor.py).
 
 ### 3. Basic annotations - to string
 
 Write a type-annotated function `to_str` that takes a float `n` as an argument and returns the string representation of the float.
 
-The implementation for this task can be found in the file [3-to_str.py](https://github.com/your-username/your-repo/blob/master/0x00-python_variable_annotations/3-to_str.py).
+The implementation for this task can be found in the file [3-to_str.py](https://github.com/Josh-techie/alx-backend-python/blob/master/0x00-python_variable_annotations/3-to_str.py).
 
 ### 4. Define variables
 
@@ -57,37 +57,37 @@ Define and annotate the following variables with the specified values:
 - `i_understand_annotations`, a boolean with a value of True.
 - `school`, a string with a value of "Holberton".
 
-The code for this task can be found in the file [4-define_variables.py](https://github.com/your-username/your-repo/blob/master/0x00-python_variable_annotations/4-define_variables.py).
+The code for this task can be found in the file [4-define_variables.py](https://github.com/Josh-techie/alx-backend-python/blob/master/0x00-python_variable_annotations/4-define_variables.py).
 
 ### 5. Complex types - list of floats
 
 Write a type-annotated function `sum_list` which takes a list `input_list` of floats as an argument and returns their sum as a float.
 
-The implementation of this task is available in the file [5-sum_list.py](https://github.com/your-username/your-repo/blob/master/0x00-python_variable_annotations/5-sum_list.py).
+The implementation of this task is available in the file [5-sum_list.py](https://github.com/Josh-techie/alx-backend-python/blob/master/0x00-python_variable_annotations/5-sum_list.py).
 
 ### 6. Complex types - mixed list
 
 Write a type-annotated function `sum_mixed_list` which takes a list `mxd_lst` of integers and floats and returns their sum as a float.
 
-You can reference the implementation for this task in the file [6-sum_mixed_list.py](https://github.com/your-username/your-repo/blob/master/0x00-python_variable_annotations/6-sum_mixed_list.py).
+You can reference the implementation for this task in the file [6-sum_mixed_list.py](https://github.com/Josh-techie/alx-backend-python/blob/master/0x00-python_variable_annotations/6-sum_mixed_list.py).
 
 ### 7. Complex types - string and int/float to tuple
 
 Write a type-annotated function `to_kv` that takes a string `k` and an int OR float `v` as arguments and returns a tuple. The first element of the tuple is the string `k`. The second element is the square of the int/float `v` and should be annotated as a float.
 
-For the implementation of this task, please refer to the file [7-to_kv.py](https://github.com/your-username/your-repo/blob/master/0x00-python_variable_annotations/7-to_kv.py).
+For the implementation of this task, please refer to the file [7-to_kv.py](https://github.com/Josh-techie/alx-backend-python/blob/master/0x00-python_variable_annotations/7-to_kv.py).
 
 ### 8. Complex types - functions
 
 Write a type-annotated function `make_multiplier` that takes a float `multiplier` as an argument and returns a function that multiplies a float by `multiplier`.
 
-The code for this task can be found in the file [8-make_multiplier.py](https://github.com/your-username/your-repo/blob/master/0x00-python_variable_annotations/8-make_multiplier.py).
+The code for this task can be found in the file [8-make_multiplier.py](https://github.com/Josh-techie/alx-backend-python/blob/master/0x00-python_variable_annotations/8-make_multiplier.py).
 
 ### 9. Let's duck type an iterable object
 
 Annotate the below function’s parameters and return values with the appropriate types.
 
-The code for this task can be found in the file [9-element_length.py](https://github.com/your-username/your-repo/blob/master/0x00-python_variable_annotations/8-make_multiplier.py).
+The code for this task can be found in the file [9-element_length.py](https://github.com/Josh-techie/alx-backend-python/blob/master/0x00-python_variable_annotations/9-element_length.py).
 
 ## Author
 
