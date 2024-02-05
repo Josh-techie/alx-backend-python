@@ -1,18 +1,14 @@
-# Project: 0x01. Python - Async
+<p align="center">
+<img src ="https://www.bing.com/images/blob?bcid=qMKCkrTVyaMGAiOH6KN5u4zeA2Bv.....3o">
+</p>
 
-## Overview
+---
 
-This project delves into the realm of asynchronous programming in Python, specifically focusing on the async and await syntax, executing async programs with asyncio, running concurrent coroutines, creating asyncio tasks, and utilizing the random module. Explore the intricacies of asynchronous I/O and gain practical experience in building efficient and concurrent Python applications.
+# Python - Async
 
-## Learning Objectives
+- This project delves into the realm of asynchronous programming in Python, specifically focusing on the async and await syntax, executing async programs with asyncio, running concurrent coroutines, creating asyncio tasks, and utilizing the random module. Explore the intricacies of asynchronous I/O and gain practical experience in building efficient and concurrent Python applications.
 
-By completing this project, you will gain proficiency in the following areas:
-
-- Understanding and implementing async and await syntax.
-- Executing async programs using asyncio.
-- Running concurrent coroutines for enhanced performance.
-- Creating asyncio tasks for efficient asynchronous operations.
-- Harnessing the power of the random module in asynchronous programming.
+---
 
 ## Resources
 
@@ -54,6 +50,22 @@ Take the code from `wait_n` and create a new function, `task_wait_n`. The code i
 
 You can reference the implementation for this task in the file [4-tasks.py](https://github.com/Josh-techie/alx-backend-python/blob/master/0x01-python_async_function/4-tasks.py).
 
-## Author
+---
 
-- More about me on: [Josh-techie](https://github.com/Josh-techie)
+## Author:
+
+- [`@Josh-techie`]() | Software Engineer Student
+
+  > Reach out to me if you need any help or have any questions.
+
+  <a href="mailto:youssef.abouyahia@e-polytechnique.ma">
+  	<img alt="Feel free to contact me" src="https://img.shields.io/badge/-Ask_me_anything-blue?style=flat&logo=Gmail&logoColor=white&link=mailto:youssef.abouyahia@e-polytechnique.ma&color=3d85c6" />
+  </a>
+  <span> | </span>
+    <a href="https://www.linkedin.com/in/youssef-abouyahia/">
+        <img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/youssef-abouyahia/" />
+    </a>
+    <span> | </span>
+    <a href="https://twitter.com/JoesephAb">
+        <img alt="Twitter Profile" src="https://img.shields.io/badge/-Twitter-0072b1?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/JoesephAb&color=1DA1F2" />
+    </a>
