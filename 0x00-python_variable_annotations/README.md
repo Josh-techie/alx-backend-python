@@ -1,4 +1,8 @@
-![ALX Logo](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/ee85b9f67c384e29525b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%252F20240116%252Fus-east-1%252Fs3%252Faws4_request&X-Amz-Date=20240116T141406Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=0eabbd25da7801c3ed65349e242265ecdb19cbdec3a5ef9303b819cfe2c84abe)
+<p align="center">
+<img src ="https://s16458.pcdn.co/wp-content/uploads/2019/06/developer-jokes4-300x225.png">
+</p>
+
+---
 
 # Project: 0x00. Python - Variable Annotations
 
