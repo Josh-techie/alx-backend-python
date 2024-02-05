@@ -6,7 +6,7 @@
 
 # Python - Async Comprehension
 
-    This project explores asynchronous programming in Python with a focus on asynchronous generators, async comprehensions, and type-annotated generators. Understand how to write asynchronous generators, use async comprehensions, and effectively type-annotate generators in Python.
+    - This project explores asynchronous programming in Python with a focus on asynchronous generators, async comprehensions, and type-annotated generators. Understand how to write asynchronous generators, use async comprehensions, and effectively type-annotate generators in Python.
 
 ---
 
