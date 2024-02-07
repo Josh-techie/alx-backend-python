@@ -21,70 +21,70 @@ To successfully navigate through this project, make sure to read or watch the fo
 
 ## Tasks
 
-0. Basic annotations - add
+0. **Basic annotations - add**
 
-- **Task:** Write a type-annotated function `add` that takes a float `a` and a float `b` as arguments and returns their sum as a float.
-- **File:** [0-add.py](./0-add.py)
+   - **Task:** Write a type-annotated function `add` that takes a float `a` and a float `b` as arguments and returns their sum as a float.
+   - **File:** [0-add.py](./0-add.py)
 
-1. Basic annotations - concat
+1. **Basic annotations - concat**
 
-- **Task:** Write a type-annotated function `concat` that takes a string `str1` and a string `str2` as arguments and returns a concatenated string.
-- **File:** [1-concat.py](./1-concat.py)
+   - **Task:** Write a type-annotated function `concat` that takes a string `str1` and a string `str2` as arguments and returns a concatenated string.
+   - **File:** [1-concat.py](./1-concat.py)
 
-2. Basic annotations - floor
+2. **Basic annotations - floor**
 
-- **Task:** Write a type-annotated function `floor` which takes a float `n` as an argument and returns the floor of the float.
-- **File:** [2-floor.py](./2-floor.py)
+   - **Task:** Write a type-annotated function `floor` which takes a float `n` as an argument and returns the floor of the float.
+   - **File:** [2-floor.py](./2-floor.py)
 
-3. Basic annotations - to string
+3. **Basic annotations - to string**
 
-- **Task:** Write a type-annotated function `to_str` that takes a float `n` as an argument and returns the string representation of the float.
-- **File:** [3-to_str.py](./3-to_str.py)
+   - **Task:** Write a type-annotated function `to_str` that takes a float `n` as an argument and returns the string representation of the float.
+   - **File:** [3-to_str.py](./3-to_str.py)
 
-4. Define variables
+4. **Define variables**
 
-- **Task:** Define and annotate the following variables with the specified values:
-  - `a`, an integer with a value of 1.
-  - `pi`, a float with a value of 3.14.
-  - `i_understand_annotations`, a boolean with a value of True.
-  - `school`, a string with a value of "Holberton".
-- **File:** [4-define_variables.py](./4-define_variables.py)
+   - **Task:** Define and annotate the following variables with the specified values:
+   - `a`, an integer with a value of 1.
+   - `pi`, a float with a value of 3.14.
+   - `i_understand_annotations`, a boolean with a value of True.
+   - `school`, a string with a value of "Holberton".
+   - **File:** [4-define_variables.py](./4-define_variables.py)
 
-5. Complex types - list of floats
+5. **Complex types - list of floats**
 
-- **Task:** Write a type-annotated function `sum_list` which takes a list `input_list` of floats as an argument and returns their sum as a float.
-- **File:** [5-sum_list.py](./5-sum_list.py)
+   - **Task:** Write a type-annotated function `sum_list` which takes a list `input_list` of floats as an argument and returns their sum as a float.
+   - **File:** [5-sum_list.py](./5-sum_list.py)
 
-6. Complex types - mixed list
+6. **Complex types - mixed list**
 
-- **Task:** Write a type-annotated function `sum_mixed_list` which takes a list `mxd_lst` of integers and floats and returns their sum as a float.
-- **File:** [6-sum_mixed_list.py](./6-sum_mixed_list.py)
+   - **Task:** Write a type-annotated function `sum_mixed_list` which takes a list `mxd_lst` of integers and floats and returns their sum as a float.
+   - **File:** [6-sum_mixed_list.py](./6-sum_mixed_list.py)
 
-7. Complex types - string and int/float to tuple
+7. **Complex types - string and int/float to tuple**
 
-- **Task:** Write a type-annotated function `to_kv` that takes a string `k` and an int OR float `v` as arguments and returns a tuple. The first element of the tuple is the string `k`. The second element is the square of the int/float `v` and should be annotated as a float.
-- **File:** [7-to_kv.py](./7-to_kv.py)
+   - **Task:** Write a type-annotated function `to_kv` that takes a string `k` and an int OR float `v` as arguments and returns a tuple. The first element of the tuple is the string `k`. The second element is the square of the int/float `v` and should be annotated as a float.
+   - **File:** [7-to_kv.py](./7-to_kv.py)
 
-8. Complex types - functions
+8. **Complex types - functions**
 
-- **Task:** Write a type-annotated function `make_multiplier` that takes a float `multiplier` as an argument and returns a function that multiplies a float by `multiplier`.
-- **File:** [8-make_multiplier.py](./8-make_multiplier.py)
+   - **Task:** Write a type-annotated function `make_multiplier` that takes a float `multiplier` as an argument and returns a function that multiplies a float by `multiplier`.
+   - **File:** [8-make_multiplier.py](./8-make_multiplier.py)
 
-9. Let's duck type an iterable object
+9. **Let's duck type an iterable object**
 
-- **Task:** Annotate the below function’s parameters and return values with the appropriate types.
-- **File:** [9-element_length.py](./9-element_length.py)
+   - **Task:** Annotate the below function’s parameters and return values with the appropriate types.
+   - **File:** [9-element_length.py](./9-element_length.py)
 
 ---
 
 ### Advanced Tasks:
 
-10. Let's duck type an iterable object
+10. **Let's duck type an iterable object**
 
-- **Task:** Annotated a function `element_length` to specify parameter and return types.
-- **File:** [9-element_length.py](./9-element_length.py)
+    - **Task:** Annotated a function `element_length` to specify parameter and return types.
+    - **File:** [9-element_length.py](./9-element_length.py)
 
-11. Duck typing - first element of a sequence
+11. **Duck typing - first element of a sequence**
 
     - **Task:** Augmented code with duck-typed annotations for a function returning the first element of a sequence or None.
     - **File:** [100-safe_first_element.py](./100-safe_first_element.py)
